@@ -1,0 +1,19 @@
+{
+  "name": "web3_tea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigwin5758/web3_tea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigwin5758/web3_tea/issues"
+  },
+  "homepage": "https://github.com/bigwin5758/web3_tea#readme"
+}
